@@ -1,0 +1,9 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Database_Connection",
+    "\\Database_Connection\\Database_Connection"
+  ],
+  "SelectedNode": "\\Database_Connection\\Database_Connection\\ConnectSQLDatabase.cs",
+  "PreviewInSolutionExplorer": false
+}
